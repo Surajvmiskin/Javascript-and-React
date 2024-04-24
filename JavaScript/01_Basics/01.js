@@ -8,3 +8,4 @@ accCity = "Hubli"
 /*Prefer not to use var because issue with funtional Scope*/
 console.table([accountID, accEmail, accPass]) 
   
+ 
