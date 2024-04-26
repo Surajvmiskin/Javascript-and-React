@@ -6,4 +6,6 @@ accCity = "Hubli"
 // accountID = 2
 
 /*Prefer not to use var because issue with funtional Scope*/
-console.table([accountID, accEmail, accPass])
+console.table([accountID, accEmail, accPass]) 
+  
+ 
